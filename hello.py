@@ -1,5 +1,5 @@
 def hello():
-    return "Hello github actions"
+    return "Hello, GitHub Actions!"
 
 if __name__=="__main__":
     print(hello())
